@@ -20,7 +20,7 @@ const Header = () => {
           </NavLink>
         </ul>
       </nav>
-      <h1>React Movies</h1>
+      <h1>Movies</h1>
     </div>
   );
 };

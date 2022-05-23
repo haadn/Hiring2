@@ -2,7 +2,7 @@ import React from "react";
 import Form from "../components/Form";
 import Header from "../components/Header";
 
-const Home = () => {
+const Discover = () => {
   return (
     <div className="home-page">
       <Header />
@@ -11,4 +11,4 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default Discover;
